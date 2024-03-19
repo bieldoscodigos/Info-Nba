@@ -1,0 +1,55 @@
+
+
+*{
+    background: black;
+}
+.imagensnba{
+    display: flex;
+    justify-content: space-around;
+    color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+    
+    
+}
+.Kobe{
+    border-radius: 20px;
+}
+.Michael{
+    border-radius: 20px;
+}
+.lebron{
+    border-radius: 20px;
+}
+.bird {
+    border-radius: 20px;
+}
+.magic{
+    border-radius: 20px;
+}
+.bill{
+    border-radius: 20px;
+}
+.button{
+    margin-top: 15px;
+    color: black;
+    border-radius: 5px;
+    background-color:white ;
+    text-decoration: none;
+}
+.footer{
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    color: white;
+    justify-content: center;
+
+}
+.a{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 5px;
+    
+    
+}
+

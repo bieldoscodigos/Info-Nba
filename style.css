@@ -1,0 +1,90 @@
+
+
+
+
+*{
+    background: black;
+
+}
+
+
+.coremail{
+    display: flex;
+    color: white;
+    margin-right: 80px;
+    
+}
+.corsenha{
+    display: flex;
+    color: white;
+    margin-right: 80px;
+
+}
+.box{
+    border-radius: 6px;
+    box-sizing: border-box;
+    margin: auto;
+    color: white;
+    
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.button{
+    margin-top: 15px;
+    color: black;
+    border-radius: 15px;
+    background-color:white ;
+    text-decoration: none;
+    
+}
+.h1{
+    color: white;
+    margin-left: 50px;
+}
+.p{
+    color: white;
+    margin-left: 50px;
+}
+
+.video{
+    margin-left: 50px;
+}
+.destaques{
+    
+    color: white;
+    margin-left: 50px;
+    
+}
+.tabela{
+    
+    margin-left: 135px;
+    border-radius: 7px;
+}
+.liga{
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.nba{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    color: white;
+}
+.A{
+    text-decoration: none;
+    background-color: white;
+}
+.login{
+    color: white;
+    text-align: center;
+    
+}
+

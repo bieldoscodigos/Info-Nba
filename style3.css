@@ -1,0 +1,36 @@
+*{
+    background: black;
+}
+
+.logotime{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+}
+.logotime2{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    align-items: center;
+}
+.boston{
+    border-radius: 100px;
+    
+}
+.lakers{
+    border-radius: 20px;
+}
+.warriors{
+    border-radius: 100px;
+    margin-top: auto;
+}
+.rodape{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
